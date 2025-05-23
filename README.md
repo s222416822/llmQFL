@@ -40,5 +40,3 @@ There are 4 folders:
 19. https://huggingface.co/deepseek-ai/deepseek-llm-7b-base
 
 
-Note* Results obtained by running the same codes in Notebook in Google Colab Pro+. This repo optimized/formatted for submission and ease use.
-
